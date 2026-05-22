@@ -1,26 +1,7 @@
-# Hi there 👋
-
-Welcome to my GitHub profile! I'm a developer passionate about building practical information systems and web applications.
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sendyoktovia-25&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/sendyoktovia-25)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sendyoktovia-25&layout=compact&theme=radical&hide_border=true)](https://github.com/sendyoktovia-25)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sendyoktovia-25&theme=radical&hide_border=true)](https://github.com/sendyoktovia-25)
-
-</div>
-
-## 📊 Activity Overview
-
-<div align="center">
-
+# Hi there 👋 
 ![Profile Views](https://komarev.com/ghpvc/?username=sendyoktovia-25&style=flat-square&color=blue)
 
-</div>
+Welcome to my GitHub profile! I'm a developer passionate about building practical information systems and web applications.
 
 ## 🚀 About Me
 - 💻 Full-stack developer with expertise in building web applications
@@ -38,12 +19,6 @@ A robust information management system deployed on Vercel with secure authentica
 - Backend: API-driven architecture
 - Hosting: Vercel deployment
 - Security: User authentication and authorization
-
-**Features:**
-- User login & authentication
-- Information management dashboard
-- Secure data handling
-- Responsive design
 
 ## 🛠️ Skills & Technologies
 - Web Development (Frontend & Backend)
