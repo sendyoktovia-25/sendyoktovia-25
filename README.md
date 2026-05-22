@@ -2,6 +2,18 @@
 
 Welcome to my GitHub profile! I'm a developer passionate about building practical information systems and web applications.
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sendyoktovia-25&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/sendyoktovia-25)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sendyoktovia-25&layout=compact&theme=radical&hide_border=true)](https://github.com/sendyoktovia-25)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sendyoktovia-25&theme=radical&hide_border=true)](https://github.com/sendyoktovia-25)
+
+</div>
+
 ## 🚀 About Me
 - 💻 Full-stack developer with expertise in building web applications
 - 🎯 Currently developing the **Sendy Information System** - a comprehensive information management platform
@@ -32,6 +44,14 @@ A robust information management system deployed on Vercel with secure authentica
 - Database Management
 - Cloud Deployment (Vercel)
 - Authentication & Security
+
+## 📊 Activity Overview
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=sendyoktovia-25&style=flat-square&color=blue)
+
+</div>
 
 ## 📫 Get In Touch
 Feel free to explore my repositories and reach out if you'd like to collaborate on projects or discuss ideas!
