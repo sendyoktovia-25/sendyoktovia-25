@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a developer passionate about building practica
 - 📚 Always learning new technologies and best practices
 - 🔧 Skilled in modern web development frameworks and tools
 
-## 📌 Featured Project
+## 📌 Featured Projects
 
 ### [Sendy Information System](https://sendy-information-system.vercel.app/)
 A robust information management system deployed on Vercel with secure authentication and data handling.
@@ -20,15 +20,44 @@ A robust information management system deployed on Vercel with secure authentica
 - Hosting: Vercel deployment
 - Security: User authentication and authorization
 
-## 🛠️ Skills & Technologies
-- Web Development (Frontend & Backend)
-- Full-Stack Architecture
-- API Design & Implementation
-- Database Management
-- Cloud Deployment (Vercel)
-- Authentication & Security
+### [Surya Motor Admin](https://surya-motor-admin.vercel.app)
+Administrative dashboard for motor management built with TypeScript and modern frameworks.
 
-## 📫 Get In Touch
-Feel free to explore my repositories and reach out if you'd like to collaborate on projects or discuss ideas!
+**Tech Stack:**
+- Language: TypeScript
+- Deployment: Vercel
+- Features: Admin controls and management interface
+
+### [Portfolio Website](https://sendyoktovia-25-github-io-ssk1.vercel.app)
+Personal portfolio showcasing projects and skills with modern web technologies.
+
+**Tech Stack:**
+- Language: JavaScript
+- Deployment: Vercel
+
+## 🛠️ Skills & Technologies
+- **Frontend:** HTML, CSS, JavaScript, React, Modern Web Frameworks
+- **Backend:** Node.js, API Design & Implementation
+- **Languages:** TypeScript, JavaScript, HTML
+- **Database:** Database Management & Design
+- **Cloud Deployment:** Vercel
+- **Architecture:** Full-Stack, REST APIs
+- **Security:** User Authentication & Authorization
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sendyoktovia-25&show_icons=true&theme=radical)
+
+## 💡 What I'm Working On
+- Building scalable web applications
+- Exploring advanced TypeScript patterns
+- Improving system architecture and security
+- Developing user-friendly admin dashboards
+
+## 🤝 Let's Connect
+- 💬 Feel free to explore my repositories
+- 🤝 Open to collaboration on interesting projects
+- 📧 Reach out if you'd like to discuss ideas or work together
 
 ---
+
+**Made with ❤️ by [sendyoktovia-25](https://github.com/sendyoktovia-25)**
