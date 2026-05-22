@@ -14,6 +14,14 @@ Welcome to my GitHub profile! I'm a developer passionate about building practica
 
 </div>
 
+## 📊 Activity Overview
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=sendyoktovia-25&style=flat-square&color=blue)
+
+</div>
+
 ## 🚀 About Me
 - 💻 Full-stack developer with expertise in building web applications
 - 🎯 Currently developing the **Sendy Information System** - a comprehensive information management platform
@@ -45,19 +53,7 @@ A robust information management system deployed on Vercel with secure authentica
 - Cloud Deployment (Vercel)
 - Authentication & Security
 
-## 📊 Activity Overview
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=sendyoktovia-25&style=flat-square&color=blue)
-
-</div>
-
 ## 📫 Get In Touch
 Feel free to explore my repositories and reach out if you'd like to collaborate on projects or discuss ideas!
 
 ---
-
-**Check out my work:** [Sendy Information System](https://sendy-information-system.vercel.app/)
-
-*Last updated: 2026-05-22*
