@@ -44,9 +44,6 @@ Personal portfolio showcasing projects and skills with modern web technologies.
 - **Architecture:** Full-Stack, REST APIs
 - **Security:** User Authentication & Authorization
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sendyoktovia-25&show_icons=true&theme=radical)
-
 ## 💡 What I'm Working On
 - Building scalable web applications
 - Exploring advanced TypeScript patterns
