@@ -11,29 +11,14 @@ Welcome to my GitHub profile! I'm a developer passionate about building practica
 
 ## 📌 Featured Projects
 
-### [Sendy Information System](https://sendy-information-system.vercel.app/)
+### [Portfolio Website](https://sendy-information-system.vercel.app/)
 A robust information management system deployed on Vercel with secure authentication and data handling.
-
-**Tech Stack:**
-- Frontend: Modern web technologies
-- Backend: API-driven architecture
-- Hosting: Vercel deployment
-- Security: User authentication and authorization
 
 ### [Surya Motor Admin](https://surya-motor-admin.vercel.app)
 Administrative dashboard for motor management built with TypeScript and modern frameworks.
 
-**Tech Stack:**
-- Language: TypeScript
-- Deployment: Vercel
-- Features: Admin controls and management interface
-
-### [Portfolio Website](https://sendyoktovia-25-github-io-ssk1.vercel.app)
+### [Resume Website](https://sendyoktovia-25-github-io-ssk1.vercel.app)
 Personal portfolio showcasing projects and skills with modern web technologies.
-
-**Tech Stack:**
-- Language: JavaScript
-- Deployment: Vercel
 
 ## 🛠️ Skills & Technologies
 - **Frontend:** HTML, CSS, JavaScript, React, Modern Web Frameworks
