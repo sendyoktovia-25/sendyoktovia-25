@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a developer passionate about building practica
 ### [Portfolio Website](https://sendy-information-system.vercel.app/)
 A robust information management system deployed on Vercel with secure authentication and data handling.
 
-### [Surya Motor Admin](https://surya-motor-admin.vercel.app)
+### [Surya Motor Admin](https://surya-motor-admin-nu.vercel.app)
 Administrative dashboard for motor management built with TypeScript and modern frameworks.
 
 ### [Resume Website](https://sendyoktovia-25-github-io-ssk1.vercel.app)
